@@ -3,5 +3,5 @@
 
 Vous pourrez retrouver [ici](https://github.com/kilyy/GPS) :  
 - notre fichier html  
-- la photo utilisée
+- la [photo utilisée](https://github.com/kilyy/GPS/blob/main/chat.jpg)
 - notre programme 
